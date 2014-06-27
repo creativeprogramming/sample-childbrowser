@@ -35,5 +35,6 @@
   ],
   "AndroidHardwareAcceleration": "false",
   "iOSBackgroundMode": [],
-  "DisplayName": ""
+  "DisplayName": "",
+  "Framework": "Cordova"
 }
